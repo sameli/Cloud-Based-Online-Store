@@ -7,6 +7,6 @@ This script has been tested with Google app engine 1.8.9 in Ubuntu 14.04
 
 How to run:
 git clone https://github.com/sameli/Cloud-Based-Online-Store.git
-cd Online-Store
+cd Cloud-Based-Online-Store
 /[path to google app engine]/dev_appserver.py .
 ```
