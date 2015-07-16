@@ -1,5 +1,5 @@
 # Online-Store
-This Project is an Online Store for Google App Engine. It utilizes GQL modeling API to access the database. 
+This Project is a cloud-based Online Store for Google App Engine. It utilizes GQL modeling API to access the database. 
 
 ```
 Notes:
